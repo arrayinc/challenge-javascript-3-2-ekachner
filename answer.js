@@ -8,7 +8,7 @@ let object = ["on my drum", "on my shoe", "on my knee", "upon my door", "stealin
 
 function thisOldMan(n, o){
     for(let i = 0; i <= 9; i++){
-        console.log(`this old man he played ${number[i]}, he played knick-knack ${object[i]}...
+        console.log(`this old man he played ${n[i]}, he played knick-knack ${o[i]}...
     with a knick-knack, paddy-whack, give the dog a bone.
         This old man came rolling home...`);
     }
